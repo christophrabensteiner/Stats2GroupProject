@@ -1,6 +1,6 @@
 ---
 #title: "BlackFriday_project"
-#author: "Magdalena"
+#author: " "
 #date: "22 Maerz 2019"
 output:
   html_document:
